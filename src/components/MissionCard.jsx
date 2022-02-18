@@ -5,14 +5,8 @@ class MissionCard extends Component {
   render() {
     const {
       name,
-    } = this.props;
-    const {
       year,
-    } = this.props;
-    const {
       country,
-    } = this.props;
-    const {
       destination,
     } = this.props;
     return (
